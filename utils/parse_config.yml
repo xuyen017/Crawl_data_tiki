@@ -1,0 +1,9 @@
+config:
+  path:
+    website_path: https://tiki.vn
+    save_path: C:\Users\chihi\OneDrive\Desktop\Tiki\raw_data
+    page_number: 3
+  dataframe:
+    header: False
+    encoding: "utf-8-sig"
+    index: False
